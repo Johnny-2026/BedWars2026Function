@@ -5,6 +5,10 @@
 #### [BedWars1058](https://www.spigotmc.org/resources/bedwars1058-opensource.97320/)
 
 #### [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)  
+
+#### [BedWarsCoreByJohnny]
+
+#### [CloudLoader]
 ## 食用方法
 1.  安装插件加载器以及依赖
 2. 在官网为您的服务器添加令牌
